@@ -3,5 +3,7 @@
 
 @import "style/layout/layout.css";
 
-@import "style/module/hero.css";
 @import "style/module/header.css";
+@import "style/module/hero.css";
+@import "style/module/slideshow.css";
+@import "style/module/video.css";

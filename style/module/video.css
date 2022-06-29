@@ -1,0 +1,11 @@
+.video {
+    text-align: center;
+}
+
+.video h1 {
+    margin: 8.5rem auto 0 auto;
+}
+
+.video iframe {
+    margin-top: 3.5rem;
+}
