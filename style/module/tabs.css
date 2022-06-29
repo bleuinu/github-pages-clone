@@ -1,0 +1,32 @@
+.tabs {
+    margin-top: 3.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.tabs .tabs__item {
+    display: inline-block;
+    margin: 0;
+}
+
+.tabs .tabs__item:first-child > button {
+    border-radius: 5px 0 0 5px;
+}
+
+.tabs .tabs__item:last-child > button {
+    border-radius: 0 5px 5px 0;
+}
+
+.tabs .tabs__item > button {
+    font-size: 1.5rem;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    padding: 1rem 2rem;
+}
+
+.tabs .tabs__item .tabs--selected {
+    background-color: #327fc7;
+    border-color: #327fc7;
+    color: #fff;
+}

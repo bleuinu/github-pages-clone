@@ -1,9 +1,10 @@
 .video {
     text-align: center;
+    background-color: #f5f5f5;
 }
 
 .video h1 {
-    margin: 8.5rem auto 0 auto;
+    padding-top: 8.5rem;
 }
 
 .video iframe {

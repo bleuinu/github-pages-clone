@@ -7,10 +7,14 @@
     text-align: center;
 }
 
+.hero .hero__container h2 {
+    margin: 0.7rem auto 6rem;
+}
+
 .hero .hero__image {
     margin: 4rem auto;
 }
 
-.hero h2 > a {
+.hero h2>a {
     color: #dcdcdc;
 }
