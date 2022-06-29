@@ -23,6 +23,7 @@
     background-color: #fff;
     border: 1px solid #ddd;
     padding: 1rem 2rem;
+    cursor: pointer;
 }
 
 .tabs .tabs__item .tabs--selected {
