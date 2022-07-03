@@ -19,3 +19,8 @@ Stack
 - Started tutorial section.
     - original source uses an anchor tag (`<a>`) but I thought `<button>` suits more here since we're not really navigating anywhere.
 ![progress-2022-06-29](./progress/20220629.gif)
+
+2022-07-03
+- Partially finished tutorial parts.
+- I thought the code part was an image but it was done in CSS... *wow*
+![progress-2022-07-03](./progress/20220703.gif)
