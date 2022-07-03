@@ -7,7 +7,7 @@
     text-align: center;
 }
 
-.hero .hero__container h2 {
+.hero .hero__container h4 {
     margin: 0.7rem auto 6rem;
 }
 
@@ -15,6 +15,6 @@
     margin: 4rem auto;
 }
 
-.hero h2>a {
+.hero h4>a {
     color: #dcdcdc;
 }

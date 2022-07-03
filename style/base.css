@@ -11,18 +11,38 @@ p {
     font-size: 1.4rem;
 }
 
+h1, h2, h3, h4, h5 {
+    font-weight: 200;
+}
+
 h1 {
     font-size: 4.8rem;
-    font-weight: 200;
     line-height: 1.6;
 }
 
 h2 {
+
+}
+
+h3 {
+    font-size: 3rem;
+}
+
+h4 {
     font-size: 1.8rem;
     color: #a7a7a7;
-    font-weight: 200;
 }
+
 
 ul, ol {
     list-style: none;
+}
+
+a {
+    color: #4183C4;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #156cc2;
 }

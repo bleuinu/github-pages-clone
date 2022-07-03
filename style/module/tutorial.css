@@ -18,4 +18,69 @@
 
 .tutorial .tutorial__list {
     padding-top: 8.5rem;
+    max-width: 98rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.tutorial .tutorial__list>li {
+    background-color: #fff;
+    margin-bottom: 7rem;
+    border: 1px solid #ddd;
+    position: relative;
+    padding-top: 4rem;
+    padding-bottom: 6rem;
+}
+
+.tutorial .tutorial__list>li::after {
+    content: "1";
+    color: #fff;
+    display: block;
+    width: 5rem;
+    height: 5rem;
+    border-radius: 50%;
+    background-color: #327fc7;
+    line-height: 4.8rem;
+    font-size: 2.8rem;
+    position: absolute;
+    top: -1rem;
+    left: -2rem;
+    font-weight: 200;
+}
+
+.tutorial .tutorial__list li.question::after {
+    content: "?";
+}
+
+.tutorial .tutorial__list li.step1 {
+    background: #fff url("../../assets/tutorial/user-repo@2x.png") right 0 no-repeat;
+    background-size: 44.6rem 32.8rem;
+    padding: 4rem 46rem 2.4rem 0;
+}
+
+.tutorial .tutorial__list li.step2::after {
+    content: "2";
+}
+
+.tutorial .tutorial__list li.step3::after {
+    content: "3";
+}
+
+.tutorial .tutorial__list li.step4::after {
+    content: "4";
+}
+
+.tutorial .tutorial__list li.step5::after {
+    content: "5";
+}
+
+.tutorial .tutorial__list p {
+    font-size: 1.8rem;
+    font-weight: 200;
+    line-height: 1.8;
+    margin: 3rem;
+}
+
+.tutorial .tutorial__list p.details {
+    font-size: 1.4rem;
 }
