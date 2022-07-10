@@ -24,3 +24,9 @@ Stack
 - Partially finished tutorial parts.
 - I thought the code part was an image but it was done in CSS... *wow*
 ![progress-2022-07-03](./progress/20220703.gif)
+
+2022-07-11
+- Overall UI finished
+- Need to work on javascript to toggle those buttons
+- Also need to work on the slideshow (hero images)
+![progress-2022-07-11](./progress/20220711.gif)
