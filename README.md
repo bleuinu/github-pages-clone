@@ -1,5 +1,8 @@
 # GitHub Pages Clone
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1567a537-b1d1-412f-969d-1a9bb8e92f1b/deploy-status)](https://app.netlify.com/sites/stirring-liger-b3ddf5/deploys)
+
+Cloned: https://pages-github-clone.netlify.app/ <br />
 Original: https://pages.github.com
 
 Stack
