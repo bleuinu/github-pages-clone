@@ -1,0 +1,52 @@
+.next-steps {
+    margin-bottom: 12rem;
+}
+
+.next-steps h1 {
+    padding: 8rem 0;
+    text-align: center;
+    line-height: 1.25;
+}
+
+.next-steps .next-steps__list {
+    display: flex;
+    text-align: center;
+    width: 98rem;
+}
+.next-steps .next-steps__link {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.next-steps .next-steps__link h2 {
+    font-size: 3rem;
+    font-weight: 300;
+    margin-bottom: 1.5rem;
+}
+
+.next-steps .next-steps__link p {
+    line-height: 1.8;
+}
+
+.next-steps .next-steps__logo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 10rem;
+    height: 10rem;
+    border-radius: 50%;
+    border: 1px solid #ccc;
+    margin-bottom: 3rem;
+    transition: 0.1s scale ease-in;
+}
+
+.next-steps .next-steps__logo > span {
+    font-size: 4rem;
+}
+
+.next-steps .next-steps__logo:hover {
+    scale: 1.1;
+    transition: 0.1s scale ease-out;
+}
